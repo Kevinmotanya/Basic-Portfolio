@@ -21,14 +21,13 @@ header {
 }
 
 h1 {
-    position: absolute;
+    position: ab;
     left: 0;
     top: 0;
     width: 100;
     border: #777777;
     padding: 10px 0;
     margin-top: 5px;
-    margin-left: 280px;
     font-size: 28px;
     float: absolute;
     background-color: #4aaaa5;
@@ -46,45 +45,44 @@ a {
 }
 
 .container {
-    width: 960px;
     border: #dddddd;
     background: #ffffff;
     margin: 0 auto;
 }
 
 #bio-image {
-    width: 200px;
+    width:200px;
     height: 200px;
     margin-right: 20px;
 }
 
 #bio-image1{
     float: left;
-    width: 200px;
+    width:200px;
     height: 200px;
-    margin-right: 20px;
+    right: 20px;
  }
  #bio-image2{
-    float: bottom;
-    width: 200px;
+    float: left;
+    width:200px;
     height: 200px;
-    margin-right: 20px;
+    right: 20px;
  }
  #bio-image3{
     float: left;
-    width: 200px;
+    width:200px;
     height: 200px;
     margin-right: 20px;
  }
  #bio-image4{
-    float: bottom;
-    width: 200px;
+    float: left;;
+    width:200px;
     height: 200px;
     margin-right: 20px;
 }
 #bio-image5{
     float: initial;
-    width: 200px;
+    width:200px;
     height: 200px;
     margin-right: 20px;
 }
